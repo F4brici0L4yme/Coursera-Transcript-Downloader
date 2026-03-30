@@ -1,0 +1,11 @@
+https://www.coursera.org/api/subtitleAssetProxy.v1/u32vflX7Qpq9r35V-8KaYw?expiry=1775001600000&hmac=xVObgy317S62zvE5u__kMSFqSOtfNvpqEI5hZ4wTY-U&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/Ir4c9pOuT7e-HPaTrl-3pA?expiry=1775001600000&hmac=xuHxjBf7eDekbK4DQKaAH-p-ZVntzCX7CRQTTUgTd3Q&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/gNJnWxueRDuSZ1sbnnQ7EQ?expiry=1775001600000&hmac=lZYAsKfNLeqQN6Bntj55oBgTJWZ0SC0GrGQ7HCm5Wnk&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/FoP80lgDQFCD_NJYAxBQQg?expiry=1775001600000&hmac=AViMHYxZ1Bf_tB84bxjd64rt-EtrDlk939hs2LSKF-w&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/Y307OKRv4vS3Szikb-Lyt0lA?expiry=1775001600000&hmac=QTx_E68YbnZ4HW6FxCq4eXmJth51vRs6o-_4pTE43yI&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/1Pive2C-S8W4r3tgvvvFiQ?expiry=1775001600000&hmac=D0SZ3x6k0TiQo_k-6eHwYmv_aZ6K4WhH6lOzQTD_w38&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/6IewRzt8TU6HsEc7fJ1O2A?expiry=1775001600000&hmac=SzPvD-jNMFt45MtnM-b-DVFE0BpKxuvTT-7aBqw5f2A&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/hSGHKKv6QuGhhyir-qLh3A?expiry=1775001600000&hmac=sr0j6NMZb73YU2dpcK6poNrHh6vHwy91ZItWs3VaXQw&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/oJpIAf7wQfaaSAH-8AH2kQ?expiry=1775001600000&hmac=zoxUThiDH7NPY7ti_ri6cveETD6f0NC40u-gix7FeCg&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/ObK8L3QoSbWyvC90KGm12w?expiry=1775001600000&hmac=5uWKHEG14er2Iwd0-4oxqOQHDPcdJ28h_CDJtE1FLq0&fileExtension=txt
+https://www.coursera.org/api/subtitleAssetProxy.v1/ieXflprtS1Gl35aa7QtRHQ?expiry=1775001600000&hmac=RNaXcjJ5DMhELyGhZT8k2A01ekho-0YCI1eha-AvlJY&fileExtension=txt
